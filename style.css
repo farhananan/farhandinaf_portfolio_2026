@@ -19,6 +19,11 @@ body {font-family: sans-serif;}
     padding: 14px 20px;
     text-decoration: none;
     font-size: 1.5rem;
+   
+}
+.navbar{ 
+    position: fixed;
+    top: 0px;
 }
 .navbar a.right {
     float: right;
