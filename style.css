@@ -9,7 +9,7 @@ body {font-family: sans-serif;}
 }
 .navbar {
     overflow: hidden;;
-    background-color: #5b8476;
+    background-color: #45675c;
 
 }
 .navbar a {
@@ -27,7 +27,7 @@ body {font-family: sans-serif;}
 }
 
 .navbar a:hover {
-    background-color: #ddd;
+    background-color: #ffffff;
     color: rgb(251, 251, 251);
     
 }
@@ -56,9 +56,7 @@ body {font-family: sans-serif;}
 }
 
 
-.navbar {
-    background-color: #5b8476;
-}
+
 body {
     background-color: #5b8476;
 }
